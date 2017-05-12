@@ -1,0 +1,9 @@
+{
+  "name": "younomi",
+  "version": "1.0.0",
+  "description": "Younomi?",
+  "main": "index.js",
+  "repository": "git@github.com:vanwalj/younomi.git",
+  "author": "Jordan Van Walleghem <j.vanwall@gmail.com>",
+  "license": "MIT"
+}
